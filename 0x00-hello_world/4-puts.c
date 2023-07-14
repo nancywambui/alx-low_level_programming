@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - a program that anyone can understand
  * Return: 0 (success)
