@@ -5,7 +5,7 @@
  * @haystack: the pointer to the string of the character
  * Return: 0 success
  */
-char *_strstr(char *haystack, char *needle
+char *_strstr(char *haystack, char *needle)
 {
 for (; *haystack != '\0'; haystack++)
 {
